@@ -1,0 +1,3 @@
+In week 1 the project of waste classification is initialized by importing libraries like tensorflow and others for cv and pandas.
+The data was visualized by CV .
+The data of train and test models are implemented
